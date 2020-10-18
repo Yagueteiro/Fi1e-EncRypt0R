@@ -14,12 +14,12 @@
   
 ## About the Tool
 This is an Open Source [AES Standard encrytion][0] tool.<br>
-AES stands for Advanced Encrption Standard. It is a symmetric-key algorithm, meaning the same key is used for both encrypting and decrypting the data.
+AES stands for Advanced Encryption Standard. It is a symmetric-key algorithm, meaning the same key is used for both encrypting and decrypting the data.
 <br>
 ![AES][img1]
 <br>
 <p>
-AES encryption has three different block ciphers: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). These block ciphers are named after the key length they use for encryption and decryption. All these ciphers encrypt and decrypt the data in 128-bit blocks but they use different sizes of cryptographic keys.
+AES Encryption has three different block ciphers: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). These block ciphers are named after the key length they use for encryption and decryption. All these ciphers encrypt and decrypt the data in 128-bit blocks but they use different sizes of cryptographic keys.
 </p>
 
 ![image][img2]
